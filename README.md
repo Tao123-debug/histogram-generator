@@ -1,1 +1,2 @@
-# histogram-generator
+# Histogram Generator
+
